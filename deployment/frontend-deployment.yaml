@@ -23,7 +23,7 @@ spec:
     spec:
       containers:
         - name: example-frontend
-          image: guckguck/example-frontend:1.0.1
+          image: guckguck/example-frontend:1.0.2
           imagePullPolicy: IfNotPresent
           resources:
             requests:
